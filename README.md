@@ -1,2 +1,2 @@
 # Algorithms and Data Structures
-Solutions for "IF869 2023.2 Algoritmos e ED Avançados" course exercises.
+Solutions for algorithms and data sctructures course exercises.
